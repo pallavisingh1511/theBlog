@@ -4,6 +4,16 @@ body {
 	color:#666;
 }
 
+header{	
+	color: #fff;
+	min-height: 100px;
+}
+
+header form{
+	float: right;	
+	padding-top: 50px;
+}
+
 .container-main{
 	background: #f4f4f4;
 	overflow: auto;
@@ -12,6 +22,7 @@ body {
 
 .logo{
 	padding: 15px 0;
+	width: 200px;
 }
 
 .navbar{
